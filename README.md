@@ -8,4 +8,4 @@
 
 ## Architecture
 
-[![](https://cldup.com/fmwx0YWpaV.png)""]
+[![](https://cldup.com/fmwx0YWpaV.png)]()
